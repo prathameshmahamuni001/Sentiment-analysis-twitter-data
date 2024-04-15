@@ -7,7 +7,7 @@ This project implements sentiment analysis using Twitter text data to classify t
 ## Key Components
 
 ### Data Preprocessing
-- The project preprocesses the Twitter text data by removing symbols, converting text to lowercase, and stemming words to their root form using the NLTK library.
+- The project preprocesses the Twitter text data by removing symbols, converting text to lowercase, and Stemming words to their root form using the NLTK library.
 - Stop words (commonly occurring words like "the", "is", "and", etc.) are removed to improve the quality of the text data.
 
 ### Feature Extraction
@@ -51,6 +51,6 @@ This project implements sentiment analysis using Twitter text data to classify t
 
 ## Contributors
 - [Prathamesh Mahamuni](https://www.linkedin.com/in/prathameshmahamuni/) - Project Lead & Developer
-- 
+
 The link to dataset : 
 https://www.kaggle.com/datasets/kazanova/sentiment140
